@@ -8,6 +8,7 @@
 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                               | ✅     | ✅  | ✅  | py:206 |
 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                             | ✅     | ✅  | ✅  | py:272 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                           | ✅     | ✅  | ✅  | py:61  |
+| [Onboarding](https://www.codingame.com/training/easy/onboarding)                             | ✅     | ❌  | ❌  | py:66  |
 
 ## Solo: Medium
 ## Solo: Hard
