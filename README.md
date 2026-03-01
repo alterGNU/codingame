@@ -9,6 +9,7 @@
 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                             | ✅     | ✅  | ✅  | py:272 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                           | ✅     | ✅  | ✅  | py:61  |
 | [Onboarding](https://www.codingame.com/training/easy/onboarding)                             | ✅     | ✅  | ✅  | py:66  |
+| [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                     | ✅     | ❌  | ❌  | py:342 |
 
 ## Solo: Medium
 ## Solo: Hard
