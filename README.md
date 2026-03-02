@@ -1,23 +1,27 @@
 # My Codingame Puzzle Solutions
 
-## Solo: Easy
+## A | Solo Puzzles
+### A.1 | Easy
 | Title                                                                                        | Python | C   | C++ | Golf   |
 |----------------------------------------------------------------------------------------------|--------|-----|-----|--------|
+| [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                               | ✅     | ✅  | ✅  | py:206 |
+| [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                     | ✅     | ✅  | ✅  | py:342 |
+| [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                             | ✅     | ✅  | ✅  | py:272 |
+| [Onboarding](https://www.codingame.com/training/easy/onboarding)                             | ✅     | ✅  | ✅  | py:66  |
 | [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | ✅     | ✅  | ✅  | ❌     |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                         | ✅     | ✅  | ✅  | py:117 |
-| [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                               | ✅     | ✅  | ✅  | py:206 |
-| [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                             | ✅     | ✅  | ✅  | py:272 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                           | ✅     | ✅  | ✅  | py:61  |
-| [Onboarding](https://www.codingame.com/training/easy/onboarding)                             | ✅     | ✅  | ✅  | py:66  |
-| [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                     | ✅     | ✅  | ❌  | py:342 |
 
-## Solo: Medium
-## Solo: Hard
-## Solo: Very_Hard
+### A.2 | Medium
+### A.3 | Hard
+### A.4 | Very_Hard
 
-## Notes:
+## B | Multi/Event Puzzles
+
+## C | Notes:
+### C.1 | Vim
 - Count word/char/byte in selected lines (vim editor): `[g]+[Ctrl]+[g]`-->display infos in bar
-### C
+### C.2 | C
 #### Split string by sep
 - Problem with `strtok`--> treats consecutive delimiters as **one single separator**...
     ```c
@@ -41,3 +45,4 @@
         loop++;
     }
     ```
+### C.3 | C++
