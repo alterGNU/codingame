@@ -14,10 +14,16 @@
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       | ✅     | ✅ | ✅  | py:61  |
 
 ### A.2 | Medium
+| Title                                                                                                                    | Python | C  | C++ | Golf   |
+|--------------------------------------------------------------------------------------------------------------------------|--------|----|-----|--------|
+| [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes)                                           | ✅     | ✅ | ✅  | py:288 |
+
 ### A.3 | Hard
 ### A.4 | Very_Hard
 
-## B | Multi/Event Puzzles
+## B | Multi/Events Puzzles
+### B.1 | Near-Palindromes
+- [Classic Medium Puzzles, but for a few day SolveIt>Vote>Reveal](https://www.codingame.com/training/medium/near-palindromes)
 
 ## C | Notes:
 ### C.1 | Vim
