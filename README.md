@@ -12,7 +12,7 @@
 | [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             | ✅     | ✅ |  ✅ | ❌     |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     | ✅     | ✅ |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       | ✅     | ✅ |  ✅ | py:61  |
-| [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       | ✅     | ✅ |  ❌ | py:    |
+| [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       | ✅     | ✅ |  ✅ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
