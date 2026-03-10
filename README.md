@@ -2,17 +2,18 @@
 
 ## A | Solo Puzzles
 ### A.1 | Easy
-| Title                                                                                                                    | Python | C  | C++ | Golf   |
-|--------------------------------------------------------------------------------------------------------------------------|--------|----|-----|--------|
-| [ASCII Art:The drunken bishop algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm) | ✅     | ✅ |  ✅ | py:429 |
-| [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                           | ✅     | ✅ |  ✅ | py:206 |
-| [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                 | ✅     | ✅ |  ✅ | py:342 |
-| [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                                                         | ✅     | ✅ |  ✅ | py:272 |
-| [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                         | ✅     | ✅ |  ✅ | py:66  |
-| [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             | ✅     | ✅ |  ✅ | ❌     |
-| [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     | ✅     | ✅ |  ✅ | py:117 |
-| [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       | ✅     | ✅ |  ✅ | py:61  |
-| [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       | ✅     | ✅ |  ✅ | py:    |
+| Title                                                                                                                    | Python | C   | C++ | Golf   |
+|--------------------------------------------------------------------------------------------------------------------------|--------|-----|-----|--------|
+| [ASCII Art:The drunken bishop algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm) | ✅     | ✅  |  ✅ | py:429 |
+| [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                           | ✅     | ✅  |  ✅ | py:206 |
+| [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                 | ✅     | ✅  |  ✅ | py:342 |
+| [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                                                         | ✅     | ✅  |  ✅ | py:272 |
+| [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                         | ✅     | ✅  |  ✅ | py:66  |
+| [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             | ✅     | ✅  |  ✅ | ❌     |
+| [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     | ✅     | ✅  |  ✅ | py:117 |
+| [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       | ✅     | ✅  |  ✅ | py:61  |
+| [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       | ✅     | ✅  |  ✅ | py:    |
+| [Unary](https://www.codingame.com/training/easy/unary)                                                                   | ✅     | ❌  |  ❌ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
