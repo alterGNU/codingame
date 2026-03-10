@@ -13,7 +13,7 @@
 | [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       | ✅     | ✅  |  ✅ | py:    |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     | ✅     | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       | ✅     | ✅  |  ✅ | py:61  |
-| [Unary](https://www.codingame.com/training/easy/unary)                                                                   | ✅     | ✅  |  ❌ | py:    |
+| [Unary](https://www.codingame.com/training/easy/unary)                                                                   | ✅     | ✅  |  ✅ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
