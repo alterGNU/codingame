@@ -12,7 +12,7 @@
 | [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             |   ✅   | ✅  |  ✅ | ❌     |
 | [Retro Trypewriter Art](https://www.codingame.com/training/easy/retro-typewriter-art)                                    |   ✅   | ✅  |  ✅ | py:    |
 | [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       |   ✅   | ✅  |  ✅ | py:    |
-| [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft)                                     |   ✅   | ✅  |  ❌ | py:181 |
+| [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft)                                     |   ✅   | ✅  |  ✅ | py:181 |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
