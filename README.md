@@ -9,6 +9,7 @@
 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                 |   ✅   | ✅  |  ✅ | py:342 |
 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                                                         |   ✅   | ✅  |  ✅ | py:272 |
 | [Horse Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) --> BASH FOR BONUS ^^                   |   ✅   | ✅  |  ✅ | py:87  |
+| [Logic Gates](https://www.codingame.com/training/easy/logic-gates)                                                       |   ✅   | ✅  |  ✅ | py:    |
 | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                         |   ✅   | ✅  |  ✅ | py:66  |
 | [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             |   ✅   | ✅  |  ✅ | ❌     |
 | [Retro Trypewriter Art](https://www.codingame.com/training/easy/retro-typewriter-art)                                    |   ✅   | ✅  |  ✅ | py:    |
@@ -17,7 +18,6 @@
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
-| [Logic Gates](https://www.codingame.com/training/easy/logic-gates)                                                       |   ✅   | ✅  |  ❌ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
