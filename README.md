@@ -16,7 +16,7 @@
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
-| [Horse Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) --> BASH FOR BONUS ^^                   |   ✅   | ✅  |  ❌ | py:    |
+| [Horse Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) --> BASH FOR BONUS ^^                   |   ✅   | ✅  |  ✅ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
