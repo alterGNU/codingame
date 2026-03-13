@@ -18,7 +18,7 @@
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
-| [Mime Type](https://www.codingame.com/training/easy/mime-type) --> C use HashTable                                       |   ✅   | ✅  |  ❌ | py:    |
+| [Mime Type](https://www.codingame.com/training/easy/mime-type) --> use HashTable                                         |   ✅   | ✅  |  ✅ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
@@ -60,3 +60,25 @@
     }
     ```
 ### C.3 | C++
+#### Map (dict) VS unordered_map (hashing)
+- `std::map`:
+    - **complexity**: O(log N) to inserting, accessing, deleting...
+- `std::unordered_map`:
+    - **complexity**: O(1) to inserting, accessing, deleting...
+#### Convert a string to lowercase
+- Using `std::transform` (most idiomatic way)
+```c++
+#include <algorithm>    // for transform
+#include <string>       // for string
+#include <cctype>       // for tolower
+std::string str = "HeLlo.Txt";
+std::transform(str.begin(), str.end(), str.begin(), [](unsigned char c){return std::tolower(c);});
+```
+- Using for loop (clearer)
+```c++
+#include <string>       // for string
+#include <cctype>       // for tolower
+std::string str = "HeLlo.Txt";
+for (char &c:s)
+    c = std::tolower((unsigned char)c);
+```
