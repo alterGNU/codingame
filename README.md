@@ -10,6 +10,7 @@
 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                                                         |   ✅   | ✅  |  ✅ | py:272 |
 | [Horse Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) --> BASH FOR BONUS ^^                   |   ✅   | ✅  |  ✅ | py:87  |
 | [Logic Gates](https://www.codingame.com/training/easy/logic-gates)                                                       |   ✅   | ✅  |  ✅ | py:    |
+| [Mime Type](https://www.codingame.com/training/easy/mime-type) --> use HashTable + linked list in cpp                    |   ✅   | ✅  |  ✅ | py:    |
 | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                         |   ✅   | ✅  |  ✅ | py:66  |
 | [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             |   ✅   | ✅  |  ✅ | ❌     |
 | [Retro Trypewriter Art](https://www.codingame.com/training/easy/retro-typewriter-art)                                    |   ✅   | ✅  |  ✅ | py:    |
@@ -18,7 +19,6 @@
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
-| [Mime Type](https://www.codingame.com/training/easy/mime-type) --> use HashTable                                         |   ✅   | ✅  |  ✅ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
@@ -60,6 +60,15 @@
     }
     ```
 ### C.3 | C++
+#### Time and Complexity Optimization
+- [Fast I/O for competitive programming](https://www.geeksforgeeks.org/competitive-programming/fast-io-for-competitive-programming/) Insert this two lines at the beginning of main() fun.:
+    - `ios::sync_with_stdio(false);` avoids synchronization of all c++ standard streams with their corresponding standard C streams.
+    - `cin.tie(nullptr);` Guarantees the flushing of `std::cout` before `std::cin` accepts an input.
+- In the same spirit, it is recommanded when outputing to replace `<< endl;` by `<<"\n";`
+    - Faster because `endl` [forces a flush](https://www.geeksforgeeks.org/cpp/endl-vs-n-in-cpp/)...
+- Avoid useless **copies**: **PASS REFERENCES** _(example with string arg)_
+    - ❌ `void doSomething(string str)` --> will make a copie of `string str`
+    - ✅ `void doSomethingFaster(string const &str)` --> will make a copie of `string str`
 #### Map (dict) VS unordered_map (hashing)
 - `std::map`:
     - **complexity**: O(log N) to inserting, accessing, deleting...

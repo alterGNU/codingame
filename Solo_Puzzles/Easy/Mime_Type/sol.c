@@ -1,3 +1,4 @@
+// Use hashtable with collision rule:insert next free in hashtab...
 #include <ctype.h>
 #include <stdlib.h>
 #include <stdio.h>

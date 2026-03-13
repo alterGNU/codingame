@@ -1,3 +1,4 @@
+// No linked list, use unordered_map and l9-l10 astuce
 #include <unordered_map>
 #include <iostream>
 #include <string>
