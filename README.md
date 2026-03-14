@@ -12,13 +12,14 @@
 | [Logic Gates](https://www.codingame.com/training/easy/logic-gates)                                                       |   ✅   | ✅  |  ✅ | py:    |
 | [Mime Type](https://www.codingame.com/training/easy/mime-type) --> use HashTable + linked list in cpp                    |   ✅   | ✅  |  ✅ | py:    |
 | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                         |   ✅   | ✅  |  ✅ | py:66  |
-| [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             |   ✅   | ✅  |  ✅ | ❌     |
+| [Power Of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                             |   ✅   | ✅  |  ✅ | py:    |
 | [Retro Trypewriter Art](https://www.codingame.com/training/easy/retro-typewriter-art)                                    |   ✅   | ✅  |  ✅ | py:    |
 | [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)                                       |   ✅   | ✅  |  ✅ | py:    |
 | [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft)                                     |   ✅   | ✅  |  ✅ | py:181 |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
+| [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) --> Memoization                                 |   ✅   | ❌  |  ❌ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
