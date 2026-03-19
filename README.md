@@ -19,7 +19,7 @@
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                     |   ✅   | ✅  |  ✅ | py:117 |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                       |   ✅   | ✅  |  ✅ | py:61  |
 | [Unary](https://www.codingame.com/training/easy/unary)                                                                   |   ✅   | ✅  |  ✅ | py:    |
-| [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) --> Memoization                                 |   ✅   | ❌  |  ❌ | py:    |
+| [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) --> Memoization                                 |   ✅   | ✅  |  ❌ | py:    |
 
 ### A.2 | Medium
 | Title                                                                                                                    | Python | C  | C++ | Golf   |
